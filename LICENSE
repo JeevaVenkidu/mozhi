@@ -1,0 +1,34 @@
+MIT License
+
+Copyright (c) 2026 Jeeva Venkidu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+### Third-Party Licenses and Attributions
+
+Mozhi includes or interfaces with third-party components that are subject to separate license terms:
+
+- **SmolLM2 ONNX Model Weights (`onnx-community/SmolLM2-360M-Instruct-ONNX`)**:
+  Licensed under the **Apache License 2.0** by Hugging Face. Model weights are not distributed within this repository; they are downloaded on-demand from Hugging Face into local browser Cache Storage only upon user request.
+- **Transformers.js (`@huggingface/transformers`)**:
+  Licensed under the **Apache License 2.0** by Hugging Face.
+- **WXT, React, Tailwind CSS, Vitest**:
+  Licensed under the **MIT License**.
